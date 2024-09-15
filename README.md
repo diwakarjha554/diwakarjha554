@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m @diwakarjha554, a Full Stack Developer.
+👀 I’m interested in Competitive Programming
+🌱 I’m currently learning Data Structures and Algorithms
+💞️ I’m looking to contribute in open source and improve my problem solving skill
 
 <!--
 **diwakarjha554/diwakarjha554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
